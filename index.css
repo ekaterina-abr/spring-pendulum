@@ -1,0 +1,40 @@
+canvas {
+    display: block;
+    margin: 5% auto;
+    background-color: powderblue;
+}
+
+form {
+    display: block;
+    position: absolute;
+    top: 200px;
+    right: 325px;
+    padding: 10px;
+    border: green 3px solid;
+    background-color: lightgreen;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+    cursor: text;
+}
+
+label {
+    display: block;
+    font-weight: 600;
+}
+
+button {
+    display: block;
+    margin: 12px auto;
+    padding: 8px 14px;
+    background-color: palegoldenrod;
+    font-size: 1.2em;
+    border: orange 1px solid;
+    cursor: pointer;
+}
+
+#start, #stop {
+    cursor: pointer;
+}
